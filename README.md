@@ -1,6 +1,8 @@
 # Simple-Sudoku
  A relatively simple Sudoku game written in Python (currently a WIP).
 
+![The Sudoku Game](https://i.gyazo.com/125531b43c15601296996752f86c89d7.png)
+
 ## Functionality
 Currently this project generates a valid Sudoku solution by randomly selecting values for each square from the remaining possible values in each square. The program then removes a certain amount of values from each subgrid (or box) to create a Sudoku puzzle. Finally the program shows the user a GUI using Tkinter where the user can interact with the board, being able to fill in values or generate a new board. Correct values are filled in as green on the board and incorrect values are filled in as red.
 
