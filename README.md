@@ -1,5 +1,5 @@
 # Simple-Sudoku
- A relatively simple Sudoku game written in Python (currently a WIP).
+ A relatively simple Sudoku program written in Python (currently a WIP).
 
 ![The Sudoku Game](https://i.gyazo.com/125531b43c15601296996752f86c89d7.png)
 
